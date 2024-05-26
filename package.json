@@ -1,8 +1,8 @@
 {
     "name": "calcl-example",
     "version": "0.1.0",
-    "main": "./dist/package/layer-example.js",
-    "types": "./dist/package/layer-example.d.ts",
+    "main": "./index.js",
+    "types": "./index.d.ts",
     "scripts": {
         "build": "tsc",
         "watch": "tsc -w",

@@ -27,7 +27,7 @@
       "experimentalDecorators": true,
       "typeRoots": ["./node_modules/@types"],
       "isolatedModules": true,
-      "outDir": "./dist/package",
+      "outDir": "./",
       "baseUrl": "./",
  
     },
